@@ -1,0 +1,8 @@
+{
+  "name": "Quỹ Phát triển giáo dục Tâm - Tài - Chính",
+  "description": "Quỹ Phát triển giáo dục Tâm - Tài - Chính (DTDF) hoạt động không vì mục tiêu lợi nhuận, hướng tới hỗ trợ giáo dục, nghiên cứu, sinh viên, giảng viên và đổi mới sáng tạo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
